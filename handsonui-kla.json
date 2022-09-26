@@ -2,7 +2,7 @@
     "label": "HandsOnUI",
     "author": "Hazaskull",
     "moreInfoUrl": "",
-    "moreInfoText": "",
+    "moreInfoText": "Derived from R.Alan Reiser's Hands On layout",
     "fingerStart": {
         "1": 29,
         "2": 30,
