@@ -13,6 +13,8 @@ Tongue-in-cheek nicknamed "theorem" because of how nicely that rolls on this mos
 
 ## Athena
 
+![](https://github.com/ijzerbroot/handsonui/blob/main/athena.png)
+
 My personal favourite.
 Swapped I and O from Handson UI v2. Since there is so little in common with the original Hands On I'll just call this "Athena" which can be typed very comfortably on the home row.
 
