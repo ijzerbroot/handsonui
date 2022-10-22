@@ -1,4 +1,4 @@
-# Two partially optimized keyboard layouts
+# Tfdll partially optimized keyboard layouts
 
 ## Hands On UI
 
@@ -13,6 +13,6 @@ Tongue-in-cheek nicknamed "theorem" because of how nicely that rolls on this mos
 
 ## Athena
 
-Swapped I and O fro Handson UI v2. Since there is so little in common with the original Hands On I'll just call this "Athena" which can be typed very comfortably on the home row.
+Swapped I and O from Handson UI v2. Since there is so little in common with the original Hands On I'll just call this "Athena" which can be typed very comfortably on the home row.
 
 [Any code is offered under a Creative Commons Attribution-ShareAlike 3.0 United States (CC BY-SA 3.0 US) license](https://creativecommons.org/licenses/by-sa/3.0/us/).
