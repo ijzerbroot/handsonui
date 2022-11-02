@@ -17,5 +17,6 @@ Tongue-in-cheek nicknamed "theorem" because of how nicely that rolls on this mos
 
 My personal favourite.
 Swapped I and O from Handson UI v2. Since there is so little in common with the original Hands On I'll just call this "Athena" which can be typed very comfortably on the home row.
+It may be better to swap D and G and/or A and I for some depending ojn personal preference.
 
 [Any code is offered under a Creative Commons Attribution-ShareAlike 3.0 United States (CC BY-SA 3.0 US) license](https://creativecommons.org/licenses/by-sa/3.0/us/).
