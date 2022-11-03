@@ -127,6 +127,30 @@
                 {
                     "type": "basic",
                     "from": {
+                        "key_code": "y",
+                        "modifiers": {
+                            "optional": [
+                                "caps_lock",
+                                "left_command",
+                                "left_control",
+                                "left_alt",
+                                "left_shift",
+                                "right_shift",
+                                "right_command",
+                                "right_control",
+                                "right_alt"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "j"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
                         "key_code": "u",
                         "modifiers": {
                             "optional": [
@@ -192,7 +216,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "j"
+                            "key_code": "y"
                         }
                     ]
                 },
