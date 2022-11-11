@@ -1,8 +1,8 @@
 {
-    "title": "ColemakLite",
+    "title": "AthenaLT",
     "rules": [
         {
-            "description": "Colemak lite",
+            "description": "Athena LT",
             "manipulators": [
                 {
                     "type": "basic",
@@ -24,7 +24,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "q"
+                            "key_code": "j"
                         }
                     ]
                 },
@@ -72,7 +72,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "l"
+                            "key_code": "k"
                         }
                     ]
                 },
@@ -127,79 +127,7 @@
                 {
                     "type": "basic",
                     "from": {
-                        "key_code": "y",
-                        "modifiers": {
-                            "optional": [
-                                "caps_lock",
-                                "left_command",
-                                "left_control",
-                                "left_alt",
-                                "left_shift",
-                                "right_shift",
-                                "right_command",
-                                "right_control",
-                                "right_alt"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "key_code": "j"
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "from": {
                         "key_code": "u",
-                        "modifiers": {
-                            "optional": [
-                                "caps_lock",
-                                "left_command",
-                                "left_control",
-                                "left_alt",
-                                "left_shift",
-                                "right_shift",
-                                "right_command",
-                                "right_control",
-                                "right_alt"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "key_code": "f"
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "from": {
-                        "key_code": "i",
-                        "modifiers": {
-                            "optional": [
-                                "caps_lock",
-                                "left_command",
-                                "left_control",
-                                "left_alt",
-                                "left_shift",
-                                "right_shift",
-                                "right_command",
-                                "right_control",
-                                "right_alt"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "key_code": "y"
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "from": {
-                        "key_code": "o",
                         "modifiers": {
                             "optional": [
                                 "caps_lock",
@@ -223,6 +151,54 @@
                 {
                     "type": "basic",
                     "from": {
+                        "key_code": "i",
+                        "modifiers": {
+                            "optional": [
+                                "caps_lock",
+                                "left_command",
+                                "left_control",
+                                "left_alt",
+                                "left_shift",
+                                "right_shift",
+                                "right_command",
+                                "right_control",
+                                "right_alt"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "o"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "o",
+                        "modifiers": {
+                            "optional": [
+                                "caps_lock",
+                                "left_command",
+                                "left_control",
+                                "left_alt",
+                                "left_shift",
+                                "right_shift",
+                                "right_command",
+                                "right_control",
+                                "right_alt"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "q"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
                         "key_code": "p",
                         "modifiers": {
                             "optional": [
@@ -240,7 +216,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "semicolon"
+                            "key_code": "quote"
                         }
                     ]
                 },
@@ -264,7 +240,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "a"
+                            "key_code": "r"
                         }
                     ]
                 },
@@ -288,7 +264,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "r"
+                            "key_code": "l"
                         }
                     ]
                 },
@@ -408,7 +384,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "i"
+                            "key_code": "e"
                         }
                     ]
                 },
@@ -432,7 +408,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "o"
+                            "key_code": "i"
                         }
                     ]
                 },
@@ -456,7 +432,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "e"
+                            "key_code": "a"
                         }
                     ]
                 },
@@ -504,7 +480,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "k"
+                            "key_code": "f"
                         }
                     ]
                 },
@@ -624,7 +600,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "quote"
+                            "key_code": "semicolon"
                         }
                     ]
                 }
