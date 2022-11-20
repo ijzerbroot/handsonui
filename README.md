@@ -1,4 +1,4 @@
-# Four partially optimized keyboard layouts
+# Three partially optimized keyboard layouts
 
 ## Hands On UI
 
@@ -17,13 +17,6 @@ Tongue-in-cheek nicknamed "theorem" because of how nicely that rolls on this mos
 
 Swapped I and O from Handson UI v2. Since there is so little in common with the original Hands On I'll just call this "Athena" which can be typed very comfortably on the home row.
 It may be better to swap D and G and/or A and I for some depending on personal preference.
-
-## Basenote
-
-![](https://github.com/ijzerbroot/handsonui/blob/main/basenote.png)
-
-This should be a very effective crossover between qwerty and colemak.
-Only 12 letters change position from qwerty and most importantly it keeps qwerty's "S" in the same place and "D" on the same finger.
 
 
 [Any code is offered under a Creative Commons Attribution-ShareAlike 3.0 United States (CC BY-SA 3.0 US) license](https://creativecommons.org/licenses/by-sa/3.0/us/).
