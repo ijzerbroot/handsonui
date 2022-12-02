@@ -17,7 +17,7 @@ Tongue-in-cheek nicknamed "theorem" because of how nicely that rolls on this mos
 
 My personal favourite.
 Since there is so little in common with the original Hands On I'll just call this "Athena" which can be typed very comfortably on the home row.
-Athena may in fact be classified as a mod of Hands Down Reference with somewhat more qwerty likeness.
-Credit for its best properties are to be given to the original Hands Down variations by Alan Reiser.
+Athena may in fact be classified as a mod of Hands Down Reference with somewhat more qwerty likeness. Swap B and K depending on how often you'd type either; I've just chose to keep the qwerty B position but it _is_ quite a reach for the right index finger...
+Credits for its best properties are to be given to the original Hands Down variations by Alan Reiser.
 
 [Any code is offered under a Creative Commons Attribution-ShareAlike 3.0 United States (CC BY-SA 3.0 US) license](https://creativecommons.org/licenses/by-sa/3.0/us/).
