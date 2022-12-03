@@ -221,8 +221,8 @@
             "id": 28
         },
         {
-            "primary": 114,
-            "shift": 82,
+            "primary": 110,
+            "shift": 78,
             "finger": 1,
             "id": 29,
             "altGr": -1,
@@ -230,14 +230,17 @@
             "numpad": -1
         },
         {
-            "primary": 115,
-            "shift": 83,
+            "primary": 114,
+            "shift": 82,
             "finger": 2,
-            "id": 30
+            "id": 30,
+            "altGr": -1,
+            "shiftAltGr": -1,
+            "numpad": -1
         },
         {
-            "primary": 110,
-            "shift": 78,
+            "primary": 115,
+            "shift": 83,
             "finger": 3,
             "id": 31,
             "altGr": -1,

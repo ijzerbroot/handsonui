@@ -264,6 +264,30 @@
                     },
                     "to": [
                         {
+                            "key_code": "n"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "s",
+                        "modifiers": {
+                            "optional": [
+                                "caps_lock",
+                                "left_command",
+                                "left_control",
+                                "left_alt",
+                                "left_shift",
+                                "right_shift",
+                                "right_command",
+                                "right_control",
+                                "right_alt"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
                             "key_code": "r"
                         }
                     ]
@@ -288,7 +312,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "n"
+                            "key_code": "s"
                         }
                     ]
                 },
