@@ -1,8 +1,8 @@
 {
-    "title": "Athena",
+    "title": "Athena Alt",
     "rules": [
         {
-            "description": "Athena",
+            "description": "Athena Alt",
             "manipulators": [
                 {
                     "type": "basic",

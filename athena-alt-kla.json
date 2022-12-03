@@ -1,5 +1,5 @@
 {
-    "label": "athena.en.ansi",
+    "label": "athena-alt.en.ansi",
     "fingerStart": {
         "1": 29,
         "2": 30,
@@ -18,7 +18,7 @@
     "author": "Hazaskull",
     "authorUrl": "",
     "moreInfoUrl": "https://github.com/ijzerbroot/handsonui/blob/main/README.md",
-    "moreInfoText": "Athena",
+    "moreInfoText": "Athena Alt",
     "keys": [
         {
             "primary": 96,
