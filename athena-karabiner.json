@@ -48,7 +48,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "k"
+                            "key_code": "y"
                         }
                     ]
                 },
@@ -168,7 +168,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "y"
+                            "key_code": "k"
                         }
                     ]
                 },
