@@ -15,7 +15,7 @@ Tongue-in-cheek nicknamed "theorem" because of how nicely that rolls on this mos
 
 ![](https://github.com/ijzerbroot/handsonui/blob/main/athena.png)
 
-My personal favourite (along with its alt-variant; both have their pros and cons).
+Superior to the two above in my opinion, hence why it gets to have a depiction.
 Since there is so little in common with the original Hands On I'll just call this "Athena" which can be typed very comfortably on the home row.
 Athena may in fact be classified as a mod of Hands Down Reference with somewhat more qwerty likeness. Swap B and K depending on how often you'd type either; I've just chose to keep the qwerty B position but it _is_ quite a reach for the right index finger...
 Credits for its best properties are to be given to the original Hands Down variations by Alan Reiser.
@@ -24,8 +24,8 @@ Credits for its best properties are to be given to the original Hands Down varia
 
 ![](https://github.com/ijzerbroot/handsonui/blob/main/athena-alt.png)
 
-Alternate implementation using NSRT on left hand.
-Slightly more right-hand balanced I'd say and beneficial for some words.
+Alternate implementation using NSRT on left hand and for me personally it is the best of the bunch (not necessarily reflected by stats in keyboard analyzers).
+Slightly more right-hand balanced I'd say but not dramatically so. Still very much an alternating layout.
 Efficiency should be comparable to regular Athena.
 
 [Any code is offered under a Creative Commons Attribution-ShareAlike 3.0 United States (CC BY-SA 3.0 US) license](https://creativecommons.org/licenses/by-sa/3.0/us/).
