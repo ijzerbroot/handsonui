@@ -25,7 +25,9 @@ Credits for its best properties are to be given to the original Hands Down varia
 ![](https://github.com/ijzerbroot/handsonui/blob/main/athena-alt.png)
 
 Alternate implementation using NSRT on left hand and for me personally it is the best of the bunch (not necessarily reflected by stats in keyboard analyzers).
-Slightly more right-hand balanced I'd say but not dramatically so. Still very much an alternating layout.
+I've since come to swap R and S (colemak style) but think that's more of a personal thing than an improvement on the layout so the depiction stays as-is in this repo.
+Q and W can be swapped depending on preference.
+Alt is slightly more right-hand balanced than regular Athena I'd say but not dramatically so. Still very much an alternating layout.
 Efficiency should be comparable to regular Athena.
 
 [Any code is offered under a Creative Commons Attribution-ShareAlike 3.0 United States (CC BY-SA 3.0 US) license](https://creativecommons.org/licenses/by-sa/3.0/us/).
