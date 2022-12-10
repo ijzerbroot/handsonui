@@ -1,8 +1,8 @@
 {
-    "title": "HandsOn15",
+    "title": "HandsOnM4",
     "rules": [
         {
-            "description": "HandsOn 15 keys from qwerty",
+            "description": "HandsOn 16 keys from qwerty",
             "manipulators": [
                 {
                     "type": "basic",

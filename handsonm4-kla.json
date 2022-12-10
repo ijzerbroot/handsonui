@@ -1,5 +1,5 @@
 {
-    "label": "hands-on15b.en.ansi",
+    "label": "hands-onm4.en.ansi",
     "fingerStart": {
         "1": 29,
         "2": 30,
@@ -17,8 +17,8 @@
     "keyboardType": "standard",
     "author": "Hazaskull",
     "authorUrl": "",
-    "moreInfoUrl": "https://github.com/ijzerbroot/plants/blob/main/handson15-kla.json",
-    "moreInfoText": "Hands On modified down to 15 keys from qwerty",
+    "moreInfoUrl": "https://github.com/ijzerbroot/plants/blob/main/handsonm4-kla.json",
+    "moreInfoText": "Hands On modified down to 16 keys from qwerty",
     "keys": [
         {
             "primary": 96,
