@@ -1,14 +1,16 @@
 # Four partially optimized keyboard layouts
 
-## Hands On UI
+## Hands On 15
 
-A slight modification of R. Alan Reiser's [Hands On](https://sites.google.com/alanreiser.com/handsdown/home/more-variations#h.6pnxfc5vsy65) keyboard layout.
-
-Changes done for my personal comfort.
+![](https://github.com/ijzerbroot/handsonui/blob/main/handson15.png)
+A heavy modification of R. Alan Reiser's [Hands On](https://sites.google.com/alanreiser.com/handsdown/home/more-variations#h.6pnxfc5vsy65) keyboard layout.
+Reduces the number of changes from QWERTY to 15 letters.
+Good hand alternation and quite evenly balanced. It also has nicely low overall finger travel. 
+Definitely not as low-SFB as Colemak or some other modern layouts but more comfortable over longer sessions (to me at least; YMMV). Made for a standard ANSI slab; no clue how it would work on ergonomic boards. 
 
 ## Hands On UI v2 / Theorem
-The v2 variant keeps G, W and M in their QWERTY locations and is a little better in SFB's and distance.
-It is however less of an alternator than the base version. Matter of preference.
+
+The v2 variant of my earlier attempt at customizing Hands On keeps G, W and M in their QWERTY locations and is a little better in SFB's and distance.
 Tongue-in-cheek nicknamed "theorem" because of how nicely that rolls on this mostly alternating layout.
 
 ## Athena
