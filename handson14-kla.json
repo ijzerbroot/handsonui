@@ -1,5 +1,5 @@
 {
-    "label": "hands-onm4.en.ansi",
+    "label": "handson14.en.ansi",
     "fingerStart": {
         "1": 29,
         "2": 30,
@@ -17,8 +17,8 @@
     "keyboardType": "standard",
     "author": "Hazaskull",
     "authorUrl": "",
-    "moreInfoUrl": "https://github.com/ijzerbroot/plants/blob/main/handsonm4-kla.json",
-    "moreInfoText": "Hands On modified down to 16 keys from qwerty",
+    "moreInfoUrl": "https://github.com/ijzerbroot/plants/blob/main/handson14-kla.json",
+    "moreInfoText": "Hands On modified down to 14 keys from qwerty",
     "keys": [
         {
             "primary": 96,
@@ -109,8 +109,8 @@
             "id": 14
         },
         {
-            "primary": 119,
-            "shift": 87,
+            "primary": 113,
+            "shift": 81,
             "finger": 1,
             "id": 15,
             "altGr": -1,
@@ -118,8 +118,8 @@
             "numpad": -1
         },
         {
-            "primary": 102,
-            "shift": 70,
+            "primary": 119,
+            "shift": 87,
             "finger": 2,
             "id": 16,
             "altGr": -1,
@@ -162,8 +162,8 @@
             "numpad": -1
         },
         {
-            "primary": 106,
-            "shift": 74,
+            "primary": 107,
+            "shift": 75,
             "finger": 7,
             "id": 21,
             "altGr": -1,
@@ -180,8 +180,8 @@
             "numpad": -1
         },
         {
-            "primary": 113,
-            "shift": 81,
+            "primary": 106,
+            "shift": 74,
             "finger": 9,
             "id": 23,
             "altGr": -1,
@@ -221,12 +221,13 @@
             "id": 28
         },
         {
-            "primary": 114,
-            "shift": 82,
+            "primary": 110,
+            "shift": 78,
             "finger": 1,
             "id": 29,
             "altGr": -1,
-            "shiftAltGr": -1
+            "shiftAltGr": -1,
+            "numpad": -1
         },
         {
             "primary": 115,
@@ -235,12 +236,13 @@
             "id": 30
         },
         {
-            "primary": 110,
-            "shift": 78,
+            "primary": 114,
+            "shift": 82,
             "finger": 3,
             "id": 31,
             "altGr": -1,
-            "shiftAltGr": -1
+            "shiftAltGr": -1,
+            "numpad": -1
         },
         {
             "primary": 116,
@@ -366,8 +368,8 @@
             "numpad": -1
         },
         {
-            "primary": 107,
-            "shift": 75,
+            "primary": 102,
+            "shift": 70,
             "finger": 7,
             "id": 47,
             "altGr": -1,
