@@ -1,10 +1,11 @@
 # Four partially optimized keyboard layouts
 
-## Hands On 14
+## 14lfq
 
-![](https://github.com/ijzerbroot/handsonui/blob/main/handson14.png)
+![](https://github.com/ijzerbroot/handsonui/blob/main/14lfq.png)
 A heavy modification of R. Alan Reiser's [Hands On](https://sites.google.com/alanreiser.com/handsdown/home/more-variations#h.6pnxfc5vsy65) keyboard layout.
 Reduces the number of changes from QWERTY to 14 letters while keeping many of it strengths. 
+14kfq = 14 letters from QWERTY.
 Definitely not as low-SFB as Colemak or some other modern layouts but more comfortable over longer sessions (to me at least; YMMV). Made for a standard ANSI slab; no clue how it would work on ergonomic boards. 
 
 ## Hands On UI v2 / Theorem

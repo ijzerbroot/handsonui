@@ -1,5 +1,5 @@
 {
-    "label": "handson14.en.ansi",
+    "label": "14lfq.en.ansi",
     "fingerStart": {
         "1": 29,
         "2": 30,
@@ -17,8 +17,8 @@
     "keyboardType": "standard",
     "author": "Hazaskull",
     "authorUrl": "",
-    "moreInfoUrl": "https://github.com/ijzerbroot/plants/blob/main/handson14-kla.json",
-    "moreInfoText": "Hands On modified down to 14 keys from qwerty",
+    "moreInfoUrl": "https://github.com/ijzerbroot/handsonui",
+    "moreInfoText": "14 letters from qwerty, inspired by Hands On",
     "keys": [
         {
             "primary": 96,

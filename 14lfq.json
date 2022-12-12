@@ -1,8 +1,8 @@
 {
-    "title": "HandsOn14",
+    "title": "14lfq",
     "rules": [
         {
-            "description": "HandsOn 14 keys from qwerty",
+            "description": "14 letters from qwerty",
             "manipulators": [
                 {
                     "type": "basic",
