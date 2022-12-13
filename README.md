@@ -10,6 +10,7 @@ Definitely not as low-SFB as Colemak or some other modern layouts but more comfo
 
 ## Hands On UI v2 / Theorem
 
+![](https://github.com/ijzerbroot/handsonui/blob/main/handson-ui-v2.png)
 The v2 variant of my earlier attempt at customizing Hands On keeps G, W and M in their QWERTY locations and is a little better in SFB's and distance.
 Tongue-in-cheek nicknamed "theorem" because of how nicely that rolls on this mostly alternating layout.
 
