@@ -18,7 +18,7 @@
     "author": "Hazaskull",
     "authorUrl": "",
     "moreInfoUrl": "https://github.com/ijzerbroot/handsonui",
-    "moreInfoText": "14 letters from qwerty, inspired by Hands On",
+    "moreInfoText": "13 letters from qwerty, inspired by Hands On",
     "keys": [
         {
             "primary": 96,
@@ -172,8 +172,8 @@
             "numpad": -1
         },
         {
-            "primary": 117,
-            "shift": 85,
+            "primary": 105,
+            "shift": 73,
             "finger": 8,
             "id": 22,
             "altGr": -1,
@@ -272,8 +272,8 @@
             "numpad": -1
         },
         {
-            "primary": 105,
-            "shift": 73,
+            "primary": 117,
+            "shift": 85,
             "finger": 7,
             "id": 35,
             "altGr": -1,
@@ -290,8 +290,8 @@
             "numpad": -1
         },
         {
-            "primary": 97,
-            "shift": 65,
+            "primary": 111,
+            "shift": 79,
             "finger": 9,
             "id": 37,
             "altGr": -1,
@@ -299,8 +299,8 @@
             "numpad": -1
         },
         {
-            "primary": 111,
-            "shift": 79,
+            "primary": 97,
+            "shift": 65,
             "finger": 10,
             "id": 38,
             "altGr": -1,
@@ -364,7 +364,7 @@
         {
             "primary": 98,
             "shift": 66,
-            "finger": 7,
+            "finger": 4,
             "id": 46,
             "altGr": -1,
             "shiftAltGr": -1,

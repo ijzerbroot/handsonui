@@ -1,8 +1,8 @@
 {
-    "title": "14lfq",
+    "title": "13lfq",
     "rules": [
         {
-            "description": "14 letters from qwerty",
+            "description": "13 letters from qwerty",
             "manipulators": [
                 {
                     "type": "basic",
@@ -168,7 +168,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "u"
+                            "key_code": "i"
                         }
                     ]
                 },
@@ -360,7 +360,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "i"
+                            "key_code": "u"
                         }
                     ]
                 },
@@ -408,7 +408,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "a"
+                            "key_code": "o"
                         }
                     ]
                 },
@@ -432,7 +432,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "o"
+                            "key_code": "a"
                         }
                     ]
                 },
