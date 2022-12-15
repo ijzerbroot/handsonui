@@ -6,7 +6,7 @@
 A heavy modification of R. Alan Reiser's [Hands On](https://sites.google.com/alanreiser.com/handsdown/home/more-variations#h.6pnxfc5vsy65) keyboard layout.
 Reduces the number of changes from QWERTY to 13 letters while keeping many of it strengths. 
 13lfq = 13 letters from QWERTY.
-Definitely not as low-SFB as Colemak or some other modern layouts but more comfortable over longer sessions (to me at least; YMMV). Made for a standard ANSI slab; no clue how it would work on ergonomic boards. 
+Not as low-SFB as Colemak or some other modern layouts but not all _that_ far off and more alternation which I happen to prefer. Made for a standard ANSI slab; no clue how it would work on ergonomic boards. 
 
 ## Hands On UI v2 / Theorem
 
