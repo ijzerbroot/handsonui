@@ -2,9 +2,9 @@
 
 ## 13lfq
 
-![](https://github.com/ijzerbroot/handsonui/blob/main/14lfq.png)
-A heavy modification of R. Alan Reiser's [Hands On](https://sites.google.com/alanreiser.com/handsdown/home/more-variations#h.6pnxfc5vsy65) keyboard layout.
-Reduces the number of changes from QWERTY to 13 letters while keeping many of it strengths. 
+![](https://github.com/ijzerbroot/handsonui/blob/main/13lfq.png)
+Inspired by R. Alan Reiser's [Hands On](https://sites.google.com/alanreiser.com/handsdown/home/more-variations#h.6pnxfc5vsy65) keyboard layout.
+A relatively limited amount of keys change from QWERTY.
 13lfq = 13 letters from QWERTY.
 Not as low-SFB as Colemak or some other modern layouts but not all _that_ far off and more alternation which I happen to prefer. Made for a standard ANSI slab; no clue how it would work on ergonomic boards. 
 
