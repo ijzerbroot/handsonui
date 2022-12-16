@@ -1,8 +1,8 @@
 {
-    "title": "12lfq",
+    "title": "eureka",
     "rules": [
         {
-            "description": "12 letters from qwerty",
+            "description": "eureka. 12 letters from qwerty",
             "manipulators": [
                 {
                     "type": "basic",
