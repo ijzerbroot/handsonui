@@ -1,4 +1,4 @@
-# Five partially optimized keyboard layouts
+# Six partially optimized keyboard layouts
 
 ## 13lfq
 
@@ -15,6 +15,11 @@ The name is not meant to be signify brilliance on the part of the layout or its 
 A trial in keeping even closer to QWERTY than 13lfq.
 Other than a little extra finger-travel it looks to score about as high as 13lfq on klanext (which is to say, better than most other 12-key change-layouts wrt SFB's and alternation).
 
+# Eureka-plus
+
+![](https://github.com/ijzerbroot/handsonui/blob/main/eureka-plus.png)
+14 letters changed from QWERTY.  
+As it did so well on klanext it's been added to my repo.
 
 ## Hands On UI v2 / Theorem
 
