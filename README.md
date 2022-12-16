@@ -1,4 +1,4 @@
-# Four partially optimized keyboard layouts
+# Five partially optimized keyboard layouts
 
 ## 13lfq
 
@@ -7,6 +7,13 @@ Inspired by R. Alan Reiser's [Hands On](https://sites.google.com/alanreiser.com/
 A relatively limited amount of keys change from QWERTY.
 13lfq = 13 letters from QWERTY.
 Not as low-SFB as Colemak or some other modern layouts but not all _that_ far off and more alternation which I happen to prefer. Made for a standard ANSI slab; no clue how it would work on ergonomic boards. 
+
+## 12lfq
+
+![](https://github.com/ijzerbroot/handsonui/blob/main/12lfq.png)
+A trial in keeping even closer to QWERTY than 13lfq.
+Other than a little extra finger-travel it looks to score about as high as 13lfq on klanext (which is to say, better than most other 12-key change-layouts wrt SFB's and alternation).
+
 
 ## Hands On UI v2 / Theorem
 
