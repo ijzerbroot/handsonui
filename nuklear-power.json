@@ -1,8 +1,8 @@
 {
-    "title": "nuklear",
+    "title": "nuklear-power",
     "rules": [
         {
-            "description": "nuklear. 8 letters from qwerty",
+            "description": "nuklear-power. 8 letters from qwerty",
             "manipulators": [
                 {
                     "type": "basic",

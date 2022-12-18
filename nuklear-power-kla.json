@@ -1,5 +1,5 @@
 {
-    "label": "eureka-vim.en.ansi",
+    "label": "nuklear-power.en.ansi",
     "fingerStart": {
         "1": 29,
         "2": 30,
@@ -18,7 +18,7 @@
     "author": "Hazaskull",
     "authorUrl": "",
     "moreInfoUrl": "https://github.com/ijzerbroot/handsonui",
-    "moreInfoText": "Eureka-vim. 6 letters from qwerty.",
+    "moreInfoText": "Nuklear-power. 8 letters from qwerty.",
     "keys": [
         {
             "primary": 96,
@@ -272,8 +272,8 @@
             "numpad": -1
         },
         {
-            "primary": 106,
-            "shift": 74,
+            "primary": 110,
+            "shift": 78,
             "finger": 7,
             "id": 35,
             "altGr": -1,
@@ -371,8 +371,8 @@
             "numpad": -1
         },
         {
-            "primary": 110,
-            "shift": 78,
+            "primary": 106,
+            "shift": 74,
             "finger": 7,
             "id": 47,
             "altGr": -1,

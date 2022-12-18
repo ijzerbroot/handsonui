@@ -21,12 +21,13 @@ Other than a little extra finger-travel it looks to score about as high as 13lfq
 14 letters changed from QWERTY.  
 As it did so well on klanext it's been added to my repo.
 
-# Eureka-vim
+# Nuklear-power
 
-![](https://github.com/ijzerbroot/handsonui/blob/main/eureka-vim.png)
-A mere 6 letters changed from QWERTY.  
-Absolutely going for rock-bottom here. HJKL stay in qwerty's place; hardly any changes for the right hand.
-Amazingly enough it still does much better on klanext than qwerty so possibly not a total waste.
+![](https://github.com/ijzerbroot/handsonui/blob/main/nuklear-power.png)
+A mere 8 letters changed from QWERTY.  
+Absolutely going for rock-bottom here. HKL stay in qwerty's place, J and N swap position.
+Keeps vim somewhat close to its natural bindings.
+Amazingly enough it still does relatively well on klanext (at least it looks to beat minimak8 on all the tests I ran). 
 
 
 ## Hands On UI v2 / Theorem
