@@ -18,7 +18,7 @@
     "author": "Hazaskull",
     "authorUrl": "",
     "moreInfoUrl": "https://github.com/ijzerbroot/handsonui",
-    "moreInfoText": "Eureka-vim. 8 letters from qwerty.",
+    "moreInfoText": "Eureka-vim. 6 letters from qwerty.",
     "keys": [
         {
             "primary": 96,
@@ -127,8 +127,8 @@
             "numpad": -1
         },
         {
-            "primary": 117,
-            "shift": 85,
+            "primary": 102,
+            "shift": 70,
             "finger": 3,
             "id": 17,
             "altGr": -1,
@@ -163,8 +163,8 @@
             "numpad": -1
         },
         {
-            "primary": 102,
-            "shift": 70,
+            "primary": 117,
+            "shift": 85,
             "finger": 7,
             "id": 21,
             "altGr": -1,
@@ -222,8 +222,8 @@
             "id": 28
         },
         {
-            "primary": 114,
-            "shift": 82,
+            "primary": 97,
+            "shift": 65,
             "finger": 1,
             "id": 29,
             "altGr": -1,
@@ -299,8 +299,8 @@
             "numpad": -1
         },
         {
-            "primary": 97,
-            "shift": 65,
+            "primary": 114,
+            "shift": 82,
             "finger": 10,
             "id": 38,
             "altGr": -1,
