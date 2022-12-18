@@ -1,4 +1,4 @@
-# Six partially optimized keyboard layouts
+# Seven partially optimized keyboard layouts
 
 ## 13lfq
 
@@ -20,6 +20,14 @@ Other than a little extra finger-travel it looks to score about as high as 13lfq
 ![](https://github.com/ijzerbroot/handsonui/blob/main/eureka-plus.png)
 14 letters changed from QWERTY.  
 As it did so well on klanext it's been added to my repo.
+
+# Eureka-vim
+
+![](https://github.com/ijzerbroot/handsonui/blob/main/eureka-vim.png)
+A mere 6 letters changed from QWERTY.  
+Absolutely going for rock-bottom here. HJKL stay in qwerty's place; hardly any changes for the right hand.
+Amazingly enough it still does much better on klanext than qwerty so possibly not a total waste.
+
 
 ## Hands On UI v2 / Theorem
 
