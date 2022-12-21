@@ -2,7 +2,7 @@
     "title": "cafe-noir",
     "rules": [
         {
-            "description": "cafe-noir. 14 letters from qwerty",
+            "description": "cafe-noir. 13 letters from qwerty",
             "manipulators": [
                 {
                     "type": "basic",
@@ -144,7 +144,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "h"
+                            "key_code": "u"
                         }
                     ]
                 },
@@ -480,7 +480,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "u"
+                            "key_code": "h"
                         }
                     ]
                 },
