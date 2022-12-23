@@ -2,7 +2,7 @@
     "title": "cafe-noir",
     "rules": [
         {
-            "description": "cafe-noir. 14 letters from qwerty",
+            "description": "cafe-noir. 12 letters from qwerty",
             "manipulators": [
                 {
                     "type": "basic",
@@ -96,7 +96,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "f"
+                            "key_code": "p"
                         }
                     ]
                 },
@@ -120,7 +120,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "p"
+                            "key_code": "f"
                         }
                     ]
                 },
@@ -216,7 +216,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "semicolon"
+                            "key_code": "quote"
                         }
                     ]
                 },
@@ -336,7 +336,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "m"
+                            "key_code": "h"
                         }
                     ]
                 },
@@ -504,7 +504,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "h"
+                            "key_code": "m"
                         }
                     ]
                 },
@@ -600,7 +600,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "quote"
+                            "key_code": "semicolon"
                         }
                     ]
                 }
