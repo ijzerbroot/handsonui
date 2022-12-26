@@ -145,8 +145,8 @@
             "numpad": -1
         },
         {
-            "primary": 112,
-            "shift": 80,
+            "primary": 106,
+            "shift": 74,
             "finger": 4,
             "id": 19,
             "altGr": -1,
@@ -163,8 +163,8 @@
             "numpad": -1
         },
         {
-            "primary": 106,
-            "shift": 74,
+            "primary": 112,
+            "shift": 80,
             "finger": 7,
             "id": 21,
             "altGr": -1,
