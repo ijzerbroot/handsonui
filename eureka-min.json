@@ -2,7 +2,7 @@
     "title": "eureka-min",
     "rules": [
         {
-            "description": "eureka-min. 12 letters from qwerty",
+            "description": "eureka-min. 11 letters from qwerty",
             "manipulators": [
                 {
                     "type": "basic",
