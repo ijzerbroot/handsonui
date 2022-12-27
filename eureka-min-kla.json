@@ -18,7 +18,7 @@
     "author": "Hazaskull",
     "authorUrl": "",
     "moreInfoUrl": "https://github.com/ijzerbroot/handsonui",
-    "moreInfoText": "Eureka-min. 11 letters from qwerty. low pain, good gain",
+    "moreInfoText": "Eureka-min. 9 letters from qwerty. low pain, good gain",
     "keys": [
         {
             "primary": 96,
@@ -172,8 +172,8 @@
             "numpad": -1
         },
         {
-            "primary": 108,
-            "shift": 76,
+            "primary": 105,
+            "shift": 73,
             "finger": 8,
             "id": 22,
             "altGr": -1,
@@ -290,8 +290,8 @@
             "numpad": -1
         },
         {
-            "primary": 105,
-            "shift": 73,
+            "primary": 108,
+            "shift": 76,
             "finger": 9,
             "id": 37,
             "altGr": -1,

@@ -2,7 +2,7 @@
     "title": "eureka-min",
     "rules": [
         {
-            "description": "eureka-min. 11 letters from qwerty",
+            "description": "eureka-min. 9 letters from qwerty",
             "manipulators": [
                 {
                     "type": "basic",
@@ -168,7 +168,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "l"
+                            "key_code": "i"
                         }
                     ]
                 },
@@ -408,7 +408,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "i"
+                            "key_code": "l"
                         }
                     ]
                 },
