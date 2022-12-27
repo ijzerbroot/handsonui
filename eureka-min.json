@@ -2,7 +2,7 @@
     "title": "eureka-min",
     "rules": [
         {
-            "description": "eureka-min. 13 letters from qwerty",
+            "description": "eureka-min. 12 letters from qwerty",
             "manipulators": [
                 {
                     "type": "basic",
@@ -72,7 +72,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "n"
+                            "key_code": "o"
                         }
                     ]
                 },
@@ -168,7 +168,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "o"
+                            "key_code": "u"
                         }
                     ]
                 },
@@ -240,7 +240,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "r"
+                            "key_code": "a"
                         }
                     ]
                 },
@@ -360,7 +360,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "u"
+                            "key_code": "n"
                         }
                     ]
                 },
@@ -432,7 +432,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "a"
+                            "key_code": "o"
                         }
                     ]
                 },
