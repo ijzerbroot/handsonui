@@ -18,7 +18,7 @@
     "author": "Hazaskull",
     "authorUrl": "",
     "moreInfoUrl": "https://github.com/ijzerbroot/handsonui",
-    "moreInfoText": "Eureka-unix. 14 letters from qwerty.",
+    "moreInfoText": "Eureka-unix. 13 letters from qwerty.",
     "keys": [
         {
             "primary": 96,
@@ -163,8 +163,8 @@
             "numpad": -1
         },
         {
-            "primary": 100,
-            "shift": 68,
+            "primary": 117,
+            "shift": 85,
             "finger": 7,
             "id": 21,
             "altGr": -1,
@@ -272,8 +272,8 @@
             "numpad": -1
         },
         {
-            "primary": 117,
-            "shift": 85,
+            "primary": 100,
+            "shift": 68,
             "finger": 7,
             "id": 35,
             "altGr": -1,
