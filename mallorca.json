@@ -1,8 +1,8 @@
 {
-    "title": "eureka-unix",
+    "title": "Mallorca",
     "rules": [
         {
-            "description": "eureka-unix. 14 letters from qwerty",
+            "description": "Mallorca.",
             "manipulators": [
                 {
                     "type": "basic",

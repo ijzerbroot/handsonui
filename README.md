@@ -12,10 +12,11 @@ As it did so well on klanext it's been added to my repo.
 The name is not meant to be signify brilliance on the part of the layout or its author. It's merely a greek word that can be typed on the home row, just as with my other Athena layout ;)
 Scores better than most other 12-key change-layouts wrt SFB's and alternation on klanext.
 
-## Eureka-unix
+## Mallorca
 
 ![](https://github.com/ijzerbroot/handsonui/blob/main/eureka-unix.png)
-Nicer movement for some commonly used unix and SQL commands such as _cd_, _delete_, _do_, _order_, _end_, _DES_, _db_, etc. 
+Play on Eureka-plus. Nicer movement for some commonly used unix and SQL commands such as _cd_, _delete_, _do_, _order_, _end_, _DES_, _db_, etc.
+Named **Mallorca** because it spells Deia on homerow-right which happens to be a town on the island of Mallorca.
 
 
 # Nuklear-power
