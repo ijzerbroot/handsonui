@@ -1,31 +1,24 @@
 # Seven partially optimized keyboard layouts
 
-## Eureka
-
-![](https://github.com/ijzerbroot/handsonui/blob/main/eureka.png)
-The name is not meant to be signify brilliance on the part of the layout or its author. It's merely a greek word that can be typed on the home row, just as with my other Athena layout ;)
-A trial in keeping even closer to QWERTY than 13lfq.
-Other than a little extra finger-travel it looks to score about as high as 13lfq on klanext (which is to say, better than most other 12-key change-layouts wrt SFB's and alternation).
-
-## Eureka-unix
-
-![](https://github.com/ijzerbroot/handsonui/blob/main/eureka-unix.png)
-A relatively limited amount of keys change from QWERTY. (13 letters move)
-13lfq = 13 letters from QWERTY.
-Nicer movement for some commonly used unix and SQL commands such as _cd_, _delete_, _do_, _order_, _end_, _DES_, _db_, etc. 
-
-## Eureka
-
-![](https://github.com/ijzerbroot/handsonui/blob/main/eureka.png)
-The name is not meant to be signify brilliance on the part of the layout or its author. It's merely a greek word that can be typed on the home row, just as with my other Athena layout ;)
-A trial in keeping even closer to QWERTY than 13lfq.
-Other than a little extra finger-travel it looks to score about as high as 13lfq on klanext (which is to say, better than most other 12-key change-layouts wrt SFB's and alternation).
 
 # Eureka-plus
 
 ![](https://github.com/ijzerbroot/handsonui/blob/main/eureka-plus.png)
 14 letters changed from QWERTY.  
 As it did so well on klanext it's been added to my repo.
+
+## Eureka
+
+![](https://github.com/ijzerbroot/handsonui/blob/main/eureka.png)
+The name is not meant to be signify brilliance on the part of the layout or its author. It's merely a greek word that can be typed on the home row, just as with my other Athena layout ;)
+Scores better than most other 12-key change-layouts wrt SFB's and alternation on klanext.
+
+## Eureka-unix
+
+![](https://github.com/ijzerbroot/handsonui/blob/main/eureka-unix.png)
+A relatively limited amount of keys change from QWERTY. (13 letters move)
+Nicer movement for some commonly used unix and SQL commands such as _cd_, _delete_, _do_, _order_, _end_, _DES_, _db_, etc. 
+
 
 # Nuklear-power
 
