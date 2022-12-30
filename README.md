@@ -4,7 +4,6 @@
 # Eureka-plus
 
 ![](https://github.com/ijzerbroot/handsonui/blob/main/eureka-plus.png)
-14 letters changed from QWERTY.  
 As it did so well on klanext it's been added to my repo.
 
 ## Eureka
@@ -16,7 +15,6 @@ Scores better than most other 12-key change-layouts wrt SFB's and alternation on
 ## Eureka-unix
 
 ![](https://github.com/ijzerbroot/handsonui/blob/main/eureka-unix.png)
-A relatively limited amount of keys change from QWERTY. (13 letters move)
 Nicer movement for some commonly used unix and SQL commands such as _cd_, _delete_, _do_, _order_, _end_, _DES_, _db_, etc. 
 
 
@@ -39,7 +37,7 @@ Tongue-in-cheek nicknamed "theorem" because of how nicely that rolls on this mos
 
 ![](https://github.com/ijzerbroot/handsonui/blob/main/athena.png)
 
-Superior to the two above in my opinion, hence why it gets to have a depiction.
+Superior to all of the above in my opinion, hence why it gets to have a depiction.
 Since there is so little in common with the original Hands On I'll just call this "Athena" which can be typed very comfortably on the home row.
 Athena may in fact be classified as a mod of Hands Down Reference with somewhat more qwerty likeness. Swap B and K depending on how often you'd type either; I've just chose to keep the qwerty B position but it _is_ quite a reach for the right index finger...
 Credits for its best properties are to be given to the original Hands Down variations by Alan Reiser.
