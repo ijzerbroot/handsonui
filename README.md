@@ -1,5 +1,12 @@
 # Seven partially optimized keyboard layouts
 
+## Eureka
+
+![](https://github.com/ijzerbroot/handsonui/blob/main/eureka.png)
+The name is not meant to be signify brilliance on the part of the layout or its author. It's merely a greek word that can be typed on the home row, just as with my other Athena layout ;)
+A trial in keeping even closer to QWERTY than 13lfq.
+Other than a little extra finger-travel it looks to score about as high as 13lfq on klanext (which is to say, better than most other 12-key change-layouts wrt SFB's and alternation).
+
 ## Eureka-unix
 
 ![](https://github.com/ijzerbroot/handsonui/blob/main/eureka-unix.png)
