@@ -14,7 +14,7 @@ Scores better than most other 12-key change-layouts wrt SFB's and alternation on
 
 ## Mallorca
 
-![](https://github.com/ijzerbroot/handsonui/blob/main/eureka-unix.png)
+![](https://github.com/ijzerbroot/handsonui/blob/main/mallorca.png)
 Play on Eureka-plus. Nicer movement for some commonly used unix and SQL commands such as _cd_, _delete_, _do_, _order_, _end_, _DES_, _db_, etc.
 Named **Mallorca** because it spells Deia on homerow-right which happens to be a town on the island of Mallorca.
 
